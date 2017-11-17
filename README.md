@@ -9,3 +9,6 @@ Project done in open source development lab as part of curriculum.
 # Running the net 
 1) To run the neural net tflearn is required.
 2) If possible run on GPU for faster and better performance.
+
+# Version 2
+In version 2 we removed the limitations of our previous network by adding PreProcessing and Augmetation to our train images in order to increase the size of our dataset which results in better overall accuracy.
